@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+@media screen and (max-width:400px) {
+
+    .pt{
+        background-image: url(./anan.jpeg);
+        width: 100%;
+
+    }
+    .note{
+        background-color: aqua;
+        width: 155%;
+    }
+    .p{
+        
+    
+    }  
+      
+    .h{
+    
+        position: relative;
+        left: 55px;
+        color: rgb(41, 12, 12);
+}
+.list{
+    list-style-type: none;
+}
+ 
+.next{
+    position: relative;
+    left: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+    line-height: 1.2;
+
+}
+
+.su{
+    line-height: 1.6;
+    position: relative;
+    left: 55px;
+    right: 55px;
+
+}
+
+.lab{
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 800;
+    position: relative;
+    left:15px;
+    
+}
+.ed{
+
+
+}
+}
